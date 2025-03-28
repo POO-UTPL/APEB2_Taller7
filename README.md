@@ -1,7 +1,6 @@
-# Taller 9-10 (Laboratorio)
+# Taller 7 - DOO e implementación de soluciones en UML con Herencia
 
-## Elaboración de ejercicios sobre Jerarquía de Herencia a través de Diagramas UML. 
-## Elaboración de ejercicios mediante código haciendo uso del concepto de Herencia en Programación Orientada a Objetos.
+## Análisis, diseño y codificación de soluciones en escenarios/problemas de la vida real, por medio de una jerarquía de herencia con diagramas UML y el lenguaje de alto nivel Java.
 
 * Leer detenidamente cada problemática propuesta.
 * Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
