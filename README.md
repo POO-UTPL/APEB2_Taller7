@@ -1,4 +1,4 @@
-# Taller 7 - [APEB2-25%] Taller 7: DOO e implementación de soluciones en UML y Java, basados en Herencia
+# Taller 7 - DOO e implementación de soluciones en UML y Java, basados en Herencia
 
 ## Análisis, diseño y codificación de soluciones en escenarios/problemas de la vida real, por medio de una jerarquía de herencia con diagramas UML y el lenguaje de alto nivel Java.
 
