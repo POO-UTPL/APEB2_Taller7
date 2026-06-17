@@ -148,11 +148,7 @@ NombreClase2 ..> NombreClase1 : usa
      - puntaje por criterio,
      - puntaje total,
      - retroalimentación breve y puntual.
-
-
 ---
-
-Rúbrica para Talleres de Resolución de Problemas con Herencia, UML y Java
 
 RÚBRICA DE EVALUACIÓN PARA LOS TALLERES DE RESOLUCIÓN DE PROBLEMAS CON HERENCIA, UML Y JAVA
 ⸻
