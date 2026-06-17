@@ -152,132 +152,70 @@ NombreClase2 ..> NombreClase1 : usa
 
 ---
 
-# Rúbrica de Evaluación
+Rúbrica para Talleres de Resolución de Problemas con Herencia, UML y Java
 
-## Rúbrica para Talleres de Resolución de Problemas con Herencia, UML y Java
-
-| Criterio | Puntaje Máximo |
-|---|---:|
-| Modelado | 3.5 pts |
-| Implementación | 3.5 pts |
-| Resultados / Funcionalidad | 1.5 pts |
-| Validación IA | 1.5 pts |
-| **Total** | **10 pts** |
-
----
-
-## Criterio: Modelado
-
-### Excelente — 3.5 pts
-
-- Las clases representan correctamente la solución.
-- La jerarquía de herencia es adecuada.
-- Los atributos, métodos y relaciones son claros y coherentes.
-
-### Satisfactorio — 2.8 pts
-
-- El modelado es correcto en su mayor parte.
-- Presenta pequeñas omisiones o inconsistencias.
-
-### En progreso — 2.1 pts
-
-- El modelado representa parcialmente la solución.
-- Existen errores en clases, relaciones o herencia.
-
-### Iniciado — 1.4 pts
-
-- El UML presenta múltiples inconsistencias.
-- La estructura propuesta es poco clara.
-
-### Ausente — 0.35 pts
-
-- No presenta UML o es totalmente incorrecto.
-
----
-
-## Criterio: Implementación
-
-### Excelente — 3.5 pts
-
-- Implementa completamente el modelo diseñado.
-- Aplica correctamente herencia, encapsulamiento y constructores.
-- Presenta código claro y organizado.
-
-### Satisfactorio — 2.8 pts
-
-- Implementa la mayoría de los requerimientos.
-- Presenta errores menores de diseño o programación.
-
-### En progreso — 2.1 pts
-
-- Implementa parcialmente la solución.
-- Existen inconsistencias importantes con respecto al UML.
-
-### Iniciado — 1.4 pts
-
-- La implementación es incompleta o difícil de comprender.
-
-### Ausente — 0.35 pts
-
-- No existe implementación o es totalmente incomprensible.
-
----
-
-## Criterio: Resultados / Funcionalidad
-
-### Excelente — 1.5 pts
-
-- Todos los resultados son correctos.
-- El programa funciona sin errores.
-
-### Satisfactorio — 1.2 pts
-
-- Los resultados son mayormente correctos.
-- Presenta errores menores.
-
-### En progreso — 0.9 pts
-
-- Solo cumple parcialmente los requerimientos.
-
-### Iniciado — 0.6 pts
-
-- Los resultados son incompletos o poco confiables.
-
-### Ausente — 0.15 pts
-
-- No genera resultados o estos no son válidos.
-
----
-
-## Criterio: Validación IA
-
-### Excelente — 1.5 pts
-
-- Presenta evidencias de revisión con IA y/o par académico.
-- Integra mejoras relevantes derivadas de la retroalimentación recibida.
-
-### Satisfactorio — 1.2 pts
-
-- Utiliza la retroalimentación recibida.
-- Realiza algunas mejoras evidentes en su solución.
-
-### En progreso — 0.9 pts
-
-- Revisa la retroalimentación recibida, pero aplica pocas mejoras.
-
-### Iniciado — 0.6 pts
-
-- Existe evidencia mínima de revisión o mejoras.
-
-### Ausente — 0.15 pts
-
-- No presenta evidencia de validación o mejora.
-
----
-
-# Formato de Salida Esperado
-
-El informe final debe presentar la siguiente estructura por cada estudiante o ejercicio evaluado:
+RÚBRICA DE EVALUACIÓN PARA LOS TALLERES DE RESOLUCIÓN DE PROBLEMAS CON HERENCIA, UML Y JAVA
+⸻
+CRITERIO: MODELADO
+EXCELENTE (3.5 pts)
+* Las clases representan correctamente la solución.
+* La jerarquía de herencia es adecuada.
+* Los atributos, métodos y relaciones son claros y coherentes.
+SATISFACTORIO (2.8 pts)
+* El modelado es correcto en su mayor parte.
+* Presenta pequeñas omisiones o inconsistencias.
+EN PROGRESO (2.1 pts)
+* El modelado representa parcialmente la solución.
+* Existen errores en clases, relaciones o herencia.
+INICIADO (1.4 pts)
+* El UML presenta múltiples inconsistencias.
+* La estructura propuesta es poco clara.
+AUSENTE (0.35 pts)
+* No presenta UML o es totalmente incorrecto.
+⸻
+CRITERIO: IMPLEMENTACIÓN
+EXCELENTE (3.5 pts)
+* Implementa completamente el modelo diseñado.
+* Aplica correctamente herencia, encapsulamiento y constructores.
+* Presenta código claro y organizado.
+SATISFACTORIO (2.8 pts)
+* Implementa la mayoría de los requerimientos.
+* Presenta errores menores de diseño o programación.
+EN PROGRESO (2.1 pts)
+* Implementa parcialmente la solución.
+* Existen inconsistencias importantes con respecto al UML.
+INICIADO (1.4 pts)
+* La implementación es incompleta o difícil de comprender.
+AUSENTE (0.35 pts)
+* No existe implementación o es totalmente incomprensible.
+⸻
+CRITERIO: RESULTADOS / FUNCIONALIDAD
+EXCELENTE (1.5 pts)
+* Todos los resultados son correctos.
+* El programa funciona sin errores.
+SATISFACTORIO (1.2 pts)
+* Los resultados son mayormente correctos.
+* Presenta errores menores.
+EN PROGRESO (0.9 pts)
+* Solo cumple parcialmente los requerimientos.
+INICIADO (0.6 pts)
+* Los resultados son incompletos o poco confiables.
+AUSENTE (0.15 pts)
+* No genera resultados o estos no son válidos.
+⸻
+CRITERIO: VALIDACIÓN IA
+EXCELENTE (1.5 pts)
+* Presenta evidencias de revisión con IA y/o par académico.
+* Integra mejoras relevantes derivadas de la retroalimentación recibida.
+SATISFACTORIO (1.2 pts)
+* Utiliza la retroalimentación recibida.
+* Realiza algunas mejoras evidentes en su solución.
+EN PROGRESO (0.9 pts)
+* Revisa la retroalimentación recibida, pero aplica pocas mejoras.
+INICIADO (0.6 pts)
+* Existe evidencia mínima de revisión o mejoras.
+AUSENTE (0.15 pts)
+* No presenta evidencia de validación o mejora. 
 
 ```
 
