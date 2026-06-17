@@ -148,7 +148,7 @@ NombreClase2 ..> NombreClase1 : usa
      - puntaje por criterio,
      - puntaje total,
      - retroalimentación breve y puntual.
-```
+
 
 ---
 
@@ -279,42 +279,6 @@ NombreClase2 ..> NombreClase1 : usa
 
 El informe final debe presentar la siguiente estructura por cada estudiante o ejercicio evaluado:
 
-```md
-## Evaluación del Taller 7
-
-### 1. Diagrama Mermaid extraído
-
-```mermaid
-classDiagram
-```
-
-### 2. Diagrama ideal propuesto
-
-```mermaid
-classDiagram
-```
-
-### 3. Retroalimentación del modelado
-
-Texto breve de máximo una línea.
-
-### 4. Retroalimentación de la implementación Java
-
-Texto breve de máximo una línea.
-
-### 5. Calificación
-
-| Criterio | Nivel | Puntaje |
-|---|---|---:|
-| Modelado |  |  |
-| Implementación |  |  |
-| Resultados / Funcionalidad |  |  |
-| Validación IA |  |  |
-| **Total** |  | **/10** |
-
-### 6. Retroalimentación general
-
-Texto breve, claro y constructivo.
 ```
 
 ---
