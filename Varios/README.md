@@ -7,3 +7,42 @@
 | **RESULTADOS / FUNCIONALIDAD** | - Todos los resultados son correctos.<br>- El programa funciona sin errores.<br><br>**1.5 pts** | - Los resultados son mayormente correctos.<br>- Presenta errores menores.<br><br>**1.2 pts** | - Solo cumple parcialmente los requerimientos.<br><br>**0.9 pts** | - Los resultados son incompletos o poco confiables.<br><br>**0.6 pts** | - No genera resultados o no son válidos.<br><br>**0.15 pts** |
 | **VALIDACIÓN IA** | - Presenta evidencias de revisión con IA y/o par académico.<br>- Integra mejoras relevantes.<br><br>**1.5 pts** | - Utiliza la retroalimentación recibida.<br>- Realiza algunas mejoras evidentes.<br><br>**1.2 pts** | - Revisa la retroalimentación, pero aplica pocas mejoras.<br><br>**0.9 pts** | - Existe evidencia mínima de revisión o mejoras.<br><br>**0.6 pts** | - No presenta evidencia de validación o mejora.<br><br>**0.15 pts** |
 
+---
+
+# RESUMEN DE CALIFICACIÓN
+
+| Criterio | Puntaje Máximo | Puntaje Obtenido |
+|-----------|:-------------:|:---------------:|
+| Modelado | 3.5 | |
+| Implementación | 3.5 | |
+| Resultados / Funcionalidad | 1.5 | |
+| Validación con IA | 1.5 | |
+| **TOTAL** | **10.0** | |
+
+---
+
+# ESCALA DE VALORACIÓN
+
+| Nivel | Porcentaje |
+|--------|:----------:|
+| EXCELENTE | 100% |
+| SATISFACTORIO | 80% |
+| EN PROGRESO | 60% |
+| INICIADO | 40% |
+| AUSENTE | 10% |
+
+---
+
+# RETROALIMENTACIÓN DEL DOCENTE
+
+**Fortalezas identificadas:**  
+- _____________________________________________
+- _____________________________________________
+
+**Aspectos por mejorar:**  
+- _____________________________________________
+- _____________________________________________
+
+**Recomendaciones:**  
+- _____________________________________________
+- _____________________________________________
